@@ -11,4 +11,4 @@
 </form><br>
 <?php require '../footer.php'; ?>
 
-<?php echo 'GitHubにmainブランチが表示されるかどうかテストする' ?>
+<?php echo 'feature2をテストする' ?>
