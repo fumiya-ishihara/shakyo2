@@ -12,4 +12,4 @@
 <?php require '../footer.php'; ?>
 
 
-<?php echo '一行追加' ?>
+<?php echo 'feature2をテストする: コンフリクト解消' ?>
